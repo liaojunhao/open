@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocs=globalThis.webpackChunkdocs||[]).push([[7472],{5513(s){s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Ydesign SDK v1.0 \u6b63\u5f0f\u53d1\u5e03 \ud83c\udf89","permalink":"/blog/ydesign-sdk-v1","unlisted":false,"date":"2024-03-24T00:00:00.000Z"}]}')}}]);
